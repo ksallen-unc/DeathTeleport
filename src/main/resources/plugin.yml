@@ -1,0 +1,13 @@
+name: DeathTeleport
+version: 1.0
+main: hypebeastkate.deathteleport.Main
+api-version: 1.16
+description: Teleports user to location of death
+
+commands:
+  TeleportToDeath:
+    description: Configures plugin/starts tracking death locations
+    usage: \ teleporttodeath to configure plugin, used by OP only
+  dback:
+    description: Teleports player to location of their death
+    usage: \ back by any player
